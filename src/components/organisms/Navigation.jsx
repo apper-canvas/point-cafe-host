@@ -48,11 +48,11 @@ const Navigation = () => {
             className="flex items-center space-x-2"
             whileHover={{ scale: 1.05 }}
           >
-            <ApperIcon name="Coffee" className="w-8 h-8 text-primary" />
+<ApperIcon name="Coffee" className="w-8 h-8 text-primary" />
             <span className={`font-heading text-xl font-bold ${
               isScrolled ? 'text-primary' : 'text-white'
             }`}>
-              Cafe Hub
+              Soham Cafe
             </span>
           </motion.div>
           

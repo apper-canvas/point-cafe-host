@@ -1,10 +1,10 @@
 {
   "id": "main",
-  "name": "Cafe Hub",
+  "name": "Soham Cafe",
   "tagline": "Your Neighborhood Coffee Sanctuary",
   "address": "123 Main Street, Downtown District, City 12345",
   "phone": "+1 (555) 123-CAFE",
-  "email": "hello@cafehub.com",
+  "email": "hello@sohamcafe.com",
   "hours": {
     "monday": { "open": "06:30", "close": "20:00", "closed": false },
     "tuesday": { "open": "06:30", "close": "20:00", "closed": false },
@@ -14,10 +14,10 @@
     "saturday": { "open": "07:00", "close": "21:00", "closed": false },
     "sunday": { "open": "07:00", "close": "19:00", "closed": false }
   },
-  "socialMedia": {
-    "instagram": "https://instagram.com/cafehub",
-    "facebook": "https://facebook.com/cafehub",
-    "twitter": "https://twitter.com/cafehub"
+"socialMedia": {
+    "instagram": "https://instagram.com/sohamcafe",
+    "facebook": "https://facebook.com/sohamcafe",
+    "twitter": "https://twitter.com/sohamcafe"
   },
   "description": "At Cafe Hub, we believe coffee is more than just a beverage—it's a catalyst for connection, creativity, and community. Since 2018, we've been serving expertly crafted coffee and wholesome food in a warm, welcoming space that feels like home.",
   "mission": "To create a gathering place where neighbors become friends, ideas flourish, and every cup tells a story of quality, sustainability, and care."

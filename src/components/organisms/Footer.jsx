@@ -45,9 +45,9 @@ const Footer = () => {
               className="flex items-center space-x-2"
               whileHover={{ scale: 1.05 }}
             >
-              <ApperIcon name="Coffee" className="w-8 h-8 text-secondary" />
+<ApperIcon name="Coffee" className="w-8 h-8 text-secondary" />
               <Text variant="heading" size="xl" color="white">
-                {businessInfo?.name || 'Cafe Hub'}
+                {businessInfo?.name || 'Soham Cafe'}
               </Text>
             </motion.div>
             
@@ -148,11 +148,10 @@ const Footer = () => {
         <hr className="border-white/20 my-8" />
         
         {/* Bottom Bar */}
-        <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+<div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <Text variant="body" size="sm" color="white" className="opacity-70">
-            © {new Date().getFullYear()} {businessInfo?.name || 'Cafe Hub'}. All rights reserved.
+            © {new Date().getFullYear()} {businessInfo?.name || 'Soham Cafe'}. All rights reserved.
           </Text>
-          
           <motion.button
             onClick={scrollToTop}
             whileHover={{ scale: 1.05 }}
