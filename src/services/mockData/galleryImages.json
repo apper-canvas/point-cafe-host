@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=600&h=400&fit=crop",
+    "caption": "Cozy interior seating with natural lighting",
+    "category": "ambiance"
+  },
+  {
+    "id": "2",
+    "url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=600&h=400&fit=crop",
+    "caption": "Artisan latte art by our skilled baristas",
+    "category": "drinks"
+  },
+  {
+    "id": "3",
+    "url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600&h=400&fit=crop",
+    "caption": "Fresh pastries baked daily",
+    "category": "food"
+  },
+  {
+    "id": "4",
+    "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    "caption": "Perfect spot for working or relaxing",
+    "category": "ambiance"
+  },
+  {
+    "id": "5",
+    "url": "https://images.unsplash.com/photo-1574936201635-23ebb0b31ab7?w=600&h=400&fit=crop",
+    "caption": "Specialty cold brew on tap",
+    "category": "drinks"
+  },
+  {
+    "id": "6",
+    "url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=600&h=400&fit=crop",
+    "caption": "Healthy breakfast options",
+    "category": "food"
+  },
+  {
+    "id": "7",
+    "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+    "caption": "Community events and gatherings",
+    "category": "ambiance"
+  },
+  {
+    "id": "8",
+    "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=400&fit=crop",
+    "caption": "Premium coffee beans from around the world",
+    "category": "drinks"
+  }
+]
